@@ -3,4 +3,5 @@ add this to your CSS file:
 ```
 @import url('https://raw.githubusercontent.com/sunworms/D2Coding-Webfont/refs/heads/master/stylesheet.css');
 ```
-the font styles are `agaveregular` and `agavebold`
+the font style is `D2CodingLigature Nerd Font`
+font weights are `normal` and `bold`
